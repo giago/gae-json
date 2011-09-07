@@ -13,7 +13,6 @@
 */**/.settings
 */.settings
 *~
-*/**/target/
-*/target/
+target/
 .checkstyle
 */**/.checkstyle
